@@ -38,6 +38,6 @@ app.get('/api/games/:game', (request, response) => {
   response.json(games[gameInfo])
 })
 
-app.listen(PORT, () => {
+app.listen(process.env.PORT || PORT, () => {
   console.log(`Server running on ${PORT}`)
 })
