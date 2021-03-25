@@ -9,6 +9,7 @@ async function getGames() {
   console.log(data)
   document.querySelector('h2').innerText = data.name
   document.querySelector('h3').innerText = data.genre
+  document.querySelector('h4').innerText = data.year
   } catch (err) {
     console.log(err)
   }

@@ -8,19 +8,23 @@ app.use(cors())
 let games = {
   'world of warcraft': {
     'name': 'World of Warcraft',
-    'genre': 'mmorpg'
+    'genre': 'mmorpg',
+    'year': '2004'
   },
   'call of duty': {
     'name': 'Call of Duty',
-    'genre': 'fps'
+    'genre': 'fps',
+    'year': '2006'
   },
   'monster hunter rise': {
     'name': 'Monster Hunter Rise',
-    'genre': 'arpg'
+    'genre': 'arpg',
+    'year': '2021'
   },
   'not added': {
     'name': 'unknown',
-    'genre': 'unknown'
+    'genre': 'unknown',
+    'year': 'unknown'
   }
 }
 
