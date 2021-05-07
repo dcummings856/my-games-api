@@ -1,0 +1,10 @@
+[
+  { "name": "World of Warcraft",
+    "genre": "mmorpg",
+    "year": "2004" 
+  },
+  { "name": "Call of Duty",
+    "genre": "fps",
+    "year": "2007"
+  }
+]
