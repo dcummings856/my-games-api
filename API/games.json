@@ -1,10 +1,120 @@
 [
   { "name": "World of Warcraft",
-    "genre": "mmorpg",
-    "year": "2004" 
+    "genre": "MMORPG",
+    "year": "2004",
+    "platforms": "PC" 
   },
   { "name": "Call of Duty",
-    "genre": "fps",
-    "year": "2007"
+    "genre": "First-person Shooter",
+    "year": "2007",
+    "platforms": ["PC", "Playstation", "Xbox"]
+  },
+  {
+    "name": "Hearthstone",
+    "genre": "Card Game",
+    "year": "2014",
+    "platforms": ["PC", "Mobile"]
+  },
+  {
+    "name": "Counter-Strike: Global Offensive",
+    "genre": "First-person Shooter",
+    "year": "2012",
+    "platforms": "PC"
+  },
+  {
+    "name": "God of War",
+    "genre": "Action-adventure",
+    "year": "2018",
+    "platforms": "Playstation"
+  },
+  {
+    "name": "Spiderman",
+    "genre": "Action-adventure",
+    "year": "2018",
+    "platforms": "Playstation"
+  },
+  {
+    "name": "Animal Crossing: New Horizon",
+    "genre": "Social Simulation",
+    "year": "2020",
+    "platforms": "Switch"
+  },
+  {
+    "name": "Final Fantasy VII Remake",
+    "genre": "Action Role-playing",
+    "year": "2020",
+    "platforms": "PC"
+  },
+  {
+    "name": "Apex Legends",
+    "genre": "Battle Royale",
+    "year": "2019",
+    "platforms": "PC"
+  },
+  {
+    "name": "Gears 5",
+    "genre": "Third-person Shooter",
+    "year": "2019",
+    "platforms": ["PC", "Xbox"]
+  },
+  {
+    "name": "",
+    "genre": "",
+    "year": "",
+    "platforms": "PC"
+  },
+  {
+    "name": "",
+    "genre": "",
+    "year": "",
+    "platforms": "PC"
+  },
+  {
+    "name": "",
+    "genre": "",
+    "year": "",
+    "platforms": "PC"
+  },
+  {
+    "name": "",
+    "genre": "",
+    "year": "",
+    "platforms": "PC"
+  },
+  {
+    "name": "",
+    "genre": "",
+    "year": "",
+    "platforms": "PC"
+  },
+  {
+    "name": "",
+    "genre": "",
+    "year": "",
+    "platforms": "PC"
+  },
+  {
+    "name": "",
+    "genre": "",
+    "year": "",
+    "platforms": "PC"
+  },
+  {
+    "name": "",
+    "genre": "",
+    "year": "",
+    "platforms": "PC"
+  },
+  {
+    "name": "",
+    "genre": "",
+    "year": "",
+    "platforms": "PC"
+  },
+  {
+    "name": "",
+    "genre": "",
+    "year": "",
+    "platforms": "PC"
   }
 ]
