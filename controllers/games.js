@@ -18,7 +18,6 @@ module.exports = {
           res.json(game)
         }
       })
-      // res.json(Games[0].name)
     }catch(err){
       console.log(err)
     }
