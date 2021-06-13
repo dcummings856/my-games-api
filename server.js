@@ -14,7 +14,7 @@ app.use(cors())
 app.use(express.urlencoded({ extended: true }))
 app.use(express.json())
 
-app.use('/', gamesRoutes)
+app.use('/api', gamesRoutes)
 
 app.listen(process.env.PORT || PORT, () => {
   console.log(`Server running on ${PORT}`)
